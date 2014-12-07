@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="net.ichigotake.pyazing.ApplicationTest" tests="2" failures="0" errors="0" skipped="0" time="0.009" timestamp="2014-12-07T08:50:10" hostname="localhost">
+  <properties>
+    <property name="device" value="Nexus 9 - 5.0.1" />
+    <property name="flavor" value="" />
+    <property name="project" value="app" />
+  </properties>
+  <testcase name="testAndroidTestCaseSetupProperly" classname="net.ichigotake.pyazing.ApplicationTest" time="0.0" />
+  <testcase name="testApplicationTestCaseSetUpProperly" classname="net.ichigotake.pyazing.ApplicationTest" time="0.0" />
+</testsuite>
